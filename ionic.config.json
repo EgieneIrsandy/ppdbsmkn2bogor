@@ -1,0 +1,7 @@
+{
+  "name": "ppdb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
